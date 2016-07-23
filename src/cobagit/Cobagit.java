@@ -11,11 +11,12 @@ public class Cobagit extends JFrame {
     }
 
     private void initUI() {
-        setTitle("HALO DIXON");
+        setTitle("CHANGE KE 3");
         setSize(1000, 200);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         System.out.println("HAI NAMAKU RODERICK");
+        System.out.println("lol");
 
     }
 
