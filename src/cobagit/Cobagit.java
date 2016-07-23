@@ -1,10 +1,9 @@
 package cobagit;
 
 import java.awt.EventQueue;
-import javax.swing.JFrame;
+import javax.swing.*;
 
 public class Cobagit extends JFrame {
-
     private static final long serialVersionUID = 1L;
 
     public Cobagit() {
@@ -12,10 +11,12 @@ public class Cobagit extends JFrame {
     }
 
     private void initUI() {
-        setTitle("Simple example");
-        setSize(800, 600);
+        setTitle("HALO DIXON");
+        setSize(1000, 200);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+        System.out.println("HAI NAMAKU RODERICK");
+
     }
 
     public static void main(String[] args) {
